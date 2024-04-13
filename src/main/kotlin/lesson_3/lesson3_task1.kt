@@ -1,7 +1,7 @@
 package lesson_3
 
 fun main() {
-    val age = 11
+    val age = 111
     val nameGirl = "Маша"
     val name = "Антон"
     var greetings = "Добрый день"
