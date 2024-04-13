@@ -1,6 +1,9 @@
 package lesson_1
 
 fun main() {
-    var numberOfOrders: Int = 75
-    val wordsOfGratitude: String = "Благодарим за покупку!"
+    val numberOfOrders = 75
+    val wordsOfGratitude = "Благодарим за покупку!"
+    println(wordsOfGratitude)
+    println(numberOfOrders)
+
 }
