@@ -1,6 +1,7 @@
 package lesson_3
 
 fun main() {
+    val nameGirl = "Маша"
     val name = "Антон"
     var greetings = "Добрый день"
 
@@ -8,5 +9,5 @@ fun main() {
 
     greetings = "Добрый вечер"
 
-    println("$greetings, $name!")
+    println("$greetings, $nameGirl!")
 }
